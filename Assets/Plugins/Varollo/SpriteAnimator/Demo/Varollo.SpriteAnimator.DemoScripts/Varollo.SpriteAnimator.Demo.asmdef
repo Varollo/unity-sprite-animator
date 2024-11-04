@@ -1,0 +1,16 @@
+{
+    "name": "Varollo.SpriteAnimator.Demo",
+    "rootNamespace": "Varollo.SpriteAnimator.Demo",
+    "references": [
+        "GUID:cdf0126dbffc7b64da252877afead630"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
