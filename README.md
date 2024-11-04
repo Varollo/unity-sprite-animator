@@ -38,4 +38,4 @@ To configure how long a frame takes to complete, go to the **Project Settings** 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Varollo/unity-sprite-animator/blob/main/LICENCE.txt) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Varollo/unity-sprite-animator/blob/main/LICENSE.txt) file for details.
